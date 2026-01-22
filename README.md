@@ -53,6 +53,12 @@ To contribute as a **Data Analyst** by leveraging my **data science foundation**
 ---
 
 ⭐ **Open to learning, collaboration, and growth**
+## 🤝 Let’s Collaborate!
+
+I’m open to opportunities in **Data Analyst, Entry-Level Data Scientis , or BI Analyst roles**.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lokesh-pandey-2265b5218/) or drop me an [email](mailto:pandeylokesh87@gmail.com).  
+
+---
 
 
 ## 🌐 Socials:
@@ -63,7 +69,27 @@ To contribute as a **Data Analyst** by leveraging my **data science foundation**
 
 ## 🎓 Certifications
 
-- Certified Data Science Professional * (OdinSchool)   
+- Certified Data Science Professional * (OdinSchool)
+
+- ## 📌 Pinned Projects
+  <p align="left">
+  <a href="https://github.com/prashant-sahoo/amazon-sales-analytics" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon%20Marketplace%20Analytics-FF9900?style=flat&logo=alamy&logoColor=white" alt="Amazon Marketplace Analytics"/>
+  </a>
+  <a href="https://github.com/prashant-sahoo/business-insights-360" target="_blank">
+    <img src="https://img.shields.io/badge/Business%20Insights%20360-4CAF50?style=flat&logo=buefy&logoColor=white" alt="Business Insights 360"/>
+  </a>
+  <a href="https://github.com/prashant-sahoo/atliqgrands-revenue-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/AtliQ%20Grands%20Revenue%20Analytics-FF6F61?style=flat&logo=hotels.com&logoColor=white" alt="AtliQ Grands Revenue Analytics"/>
+  </a>
+  <a href="https://github.com/prashant-sahoo/atliqmart-supplychain-analysis" target="_blank">
+    <img src="https://img.shields.io/badge/AtliQ%20Mart%20Supply%20Chain%20Analytics-1E90FF?style=flat&logo=trpc&logoColor=white" alt="AtliQ Marts Supplychain Analytics"/>
+  </a>
+</p>
+
+---
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lokesh7-pqndey&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
